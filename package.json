@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "stripe-init": "stripe listen --forward-to localhost:3000/api/webhooks",
     "start": "next start",
     "lint": "next lint"
   },

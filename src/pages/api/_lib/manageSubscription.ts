@@ -27,6 +27,7 @@ const subscriptionData = {
     status: subscription.status,
     price_id : subscription.items.data[0].price.id,
 }
+
 await fauna.query(
     q.Create(
         q.Collection('subscriptions'),
