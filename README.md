@@ -1,3 +1,5 @@
+![Animação-pt14](https://user-images.githubusercontent.com/86725282/177658812-4af1285b-c0fa-423c-9c14-555111e1a1c9.gif)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
