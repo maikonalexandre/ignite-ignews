@@ -17,7 +17,7 @@
 
 
 #
-### Como iniciar o projeto: 
+### Como iniciar o projeto 
 Primeiro clone o repositorio na sua maquina, depois rode o comando:  `npm install` para instalar todas as dependencias. 
 
 > Após isto execute o seguinte comando para excutar o stripe.
