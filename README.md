@@ -10,7 +10,7 @@ Aprendi com esse projeto a usar o next e suas "funçoes" como o next-api, getSta
 ## ⚙️ Instalação
 ```
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/maikonalexandre/pokedex
+$ git clone https://github.com/maikonalexandre/ignite-ignews
 ```
 ```
 # Instale as dependências
